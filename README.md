@@ -11,6 +11,8 @@ Then it replaces each instance it finds.
 
 In my use (over about 18 months) I've never found it to make an error, but it has not been rigorously tested.
 
+There is a known bug where it asks you to position the replacement object more than once.
+
 You can get the compiled app [here](https://github.com/downloads/ryecroft/Replace-Page-Items/Replace%20Page%20Items.app.zip).
 
 ![Foo](https://github.com/ryecroft/Replace-Page-Items/raw/master/replace_page_items_help.jpg)
